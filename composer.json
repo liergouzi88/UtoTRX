@@ -1,8 +1,8 @@
 {
-  "name": "smalpony/tronweb",
+  "name": "liergouzi88/UtoTRX",
   "type": "library",
   "license": "MIT",
-  "description": "Hot 2",
+  "description": "UtoTRX",
   "require": { 
   
 		"tntma/web3.php": "^1.0.0",
