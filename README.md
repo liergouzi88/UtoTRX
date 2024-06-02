@@ -2,6 +2,8 @@
 
 [这是作者地址 https://github.com/smalpony/tronWeb]()
 
+快捷使用:  composer require liergouzi88/uto-trx
+
 # 关于TronWeb
 基于web3.js 开发,支持波场链 所有API,支持sunswap闪兑，跨链兑换，usdt兑换trx等等！
 
